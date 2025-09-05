@@ -1,5 +1,5 @@
 
-#  Multi-Label Classification for Archive Text Using Advanced Feature Engineering
+#  Multi-Label Classification for Archive Text 
 
 ##  Overview
 This project focuses on **automating archive cataloging** using **multi-label classification (MLC)** techniques and **transformer-based deep learning models**.  
