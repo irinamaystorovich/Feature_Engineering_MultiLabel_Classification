@@ -49,8 +49,6 @@ The dataset used in this project was provided by the **University of North Texas
   - `Pandas`, `NumPy`
   - `PyMARC` (for MARC file processing)
   - `tqdm` (progress visualization)
-- **Hardware:**  
-  - Linux server with **two NVIDIA A40 GPUs (48GB each)**
 
 ---
 
